@@ -2,7 +2,9 @@
 2.  
 3.  int main (void)
 4.  {
-5.    print("Hello world")
-6.   }
+5.    printf("Hello world")
+6.      
+7.    printf("Adding one more line of code just for the sake of ss/n");
+8.   }
 
 
